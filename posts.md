@@ -1,5 +1,6 @@
 ---
 title: Posts
+position: 4
 layout: posts
 sub_heading: ''
 description: Articles by Belkirk College

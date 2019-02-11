@@ -1,6 +1,7 @@
 ---
 title: About
 date: 2017-11-01 03:00:00 Z
+position: 2
 banner_image: "/uploads/2018/02/17/college-building.jpg"
 heading: About Belkirk
 sub_heading: Ora et Labora
